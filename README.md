@@ -1,0 +1,2 @@
+# meditate
+my meditate everyday
